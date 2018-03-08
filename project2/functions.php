@@ -348,7 +348,8 @@ header("Location:error.php");
 
 function getPDO()
 {
-    
+$ip = getenv('IP');
+$port = '3306';   
 define('DBCONNECTION', "mysql:host=$ip;port=$port;dbname=travel;charset=utf8mb4;");
 define('DBUSER', getenv('C9_USER'));
 define('DBPASS', '');
