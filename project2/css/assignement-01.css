@@ -1,0 +1,26 @@
+.box{
+    border-style:solid;
+    border-color:#C5CAE9;
+    border-width:0.09em;
+    
+}
+
+
+
+
+.item{
+    display:inline-flex;
+}
+
+
+.col-md-1{
+    
+    padding-top: 7px;
+   
+}
+
+
+
+#share{
+    font-family: Open sans;
+}

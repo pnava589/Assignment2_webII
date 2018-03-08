@@ -1,7 +1,7 @@
 <?php
 define('DBHOST', '');
-define('DBNAME', 'art');
-define('DBUSER', 'testuser');
-define('DBPASS', 'mypassword');
-define('DBCONNSTRING','mysql:dbname=art;charset=utf8mb4;');
+define('DBNAME', 'travel');
+define('DBUSER', 'pnava589');
+define('DBPASS', '');
+define('DBCONNSTRING','mysql:dbname=travel;charset=utf8mb4;');
 ?>
